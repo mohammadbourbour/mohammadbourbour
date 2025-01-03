@@ -7,7 +7,6 @@ Passionate about building intelligent systems and enhancing digital security.
 
 📊 Exploring data science and machine learning projects.
 
-🌱 Currently learning C++ and diving into advanced networking.
 
 
 
