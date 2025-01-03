@@ -2,9 +2,13 @@
 🚀 Python Developer | 🌐 AI & Cybersecurity Enthusiast
 
 Passionate about building intelligent systems and enhancing digital security.
+
 💻 Proficient in Linux, experienced with Arduino & Raspberry Pi.
+
 📊 Exploring data science and machine learning projects.
+
 🌱 Currently learning C++ and diving into advanced networking.
+
 
 
 # 💻 Tech Stack:
