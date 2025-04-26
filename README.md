@@ -1,12 +1,13 @@
 # 💫 About Me:
-🚀 Python Developer | 🌐 AI & Cybersecurity Enthusiast
+🚀 DevOps Enthusiast | 🛡️ Cybersecurity Explorer | 🧠 AI & Automation Learner
 
-Passionate about building intelligent systems and enhancing digital security.
+Passionate about automating processes, managing Linux servers, and building efficient CI/CD pipelines.
 
-💻 Proficient in Linux, experienced with Arduino & Raspberry Pi.
+💻 Skilled in Linux, GitHub Actions, GitLab CI/CD, and scripting with Bash and Python.
 
-📊 Exploring data science and machine learning projects.
+🔧 Experienced with Raspberry Pi, IoT projects, and machine learning applications.
 
+🌐 Continuously expanding my knowledge in cloud services, security analysis, and server management.
 
 
 
