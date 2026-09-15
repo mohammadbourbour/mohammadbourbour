@@ -1,9 +1,12 @@
 # About Me
 
-Independent AI Systems Builder | building NexoVerse & Nexo BMS
+Independent AI & Automation Builder | AI Agents • n8n • Python • APIs
 
-Focused on Edge AI, Machine Learning, Predictive Maintenance, and AI Engineering.
+Building practical AI systems, workflow automations, and backend services.
 
+Focused on AI Automation, LLM workflows, Edge AI, Machine Learning, and intelligent systems.
+
+Currently building NexoVerse and NexoBMS.
 
 
 # 📊 GitHub Stats:
