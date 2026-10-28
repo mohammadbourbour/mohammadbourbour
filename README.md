@@ -1,6 +1,5 @@
-# About Me
 
-Independent AI & Systems Builder | AI Automation • Edge AI 
+## Independent AI & Systems Builder | AI Automation • Edge AI 
 
 
 # 📊 GitHub Stats:
